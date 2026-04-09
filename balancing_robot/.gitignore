@@ -1,0 +1,15 @@
+# 빌드 결과물
+Debug/
+Release/
+
+# STM32CubeIDE 설정 (선택적 - 팀 공유 시 제거)
+.settings/
+.cproject
+.project
+
+# 오브젝트/의존성 파일
+*.o
+*.d
+*.elf
+*.map
+*.list
