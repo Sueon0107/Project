@@ -1,0 +1,2070 @@
+MPU-6050 초기화 중...
+MPU-6050 연결 OK (클론 모�MPU-6050 초기화 중...
+MPU-6050 연결 OK (클론 모듈)
+DMP 초기화 중... (약 15초 소요)
+DMP 준비 완료!
+=========================================
+  밸런싱 로봇 v2.0 (DMP)
+  Kp=35.00  Ki=200.00  Kd=3.50
+  명령: P/I/D/T/M + 값 (예: P30)
+=========================================
+angle:0.40	[정지]
+angle:0.37	[정지]
+angle:0.34	[정지]
+angle:0.31	[정지]
+angle:0.28	[정지]
+angle:0.27	[정지]
+angle:0.25	[정지]
+angle:0.23	[정지]
+angle:0.22	[정지]
+angle:0.21	[정지]
+angle:0.31	[정지]
+angle:0.63	[정지]
+angle:3.65	out:-421.3	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.19	out:-249.8	Kp:35.00	Ki:200.00	Kd:3.50
+angle:0.22	[정지]
+angle:0.15	[정지]
+angle:0.15	[정지]
+angle:0.15	[정지]
+angle:0.17	[정지]
+angle:0.29	[정지]
+angle:-3.28	out:640.3	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-4.92	out:1393.2	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-1.20	out:470.1	Kp:35.00	Ki:200.00	Kd:3.50
+angle:0.02	[정지]
+angle:1.33	[정지]
+angle:0.31	[정지]
+angle:1.28	[정지]
+angle:3.79	out:-505.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.12	[정지]
+angle:-1.10	out:748.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.83	out:618.3	Kp:35.00	Ki:200.00	Kd:3.50
+angle:0.03	[정지]
+angle:0.51	[정지]
+angle:0.26	[정지]
+angle:-0.50	[정지]
+angle:-0.06	[정지]
+angle:-0.69	[정지]
+angle:-1.53	out:375.4	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.38	[정지]
+angle:1.24	[정지]
+angle:0.48	[정지]
+angle:0.19	[정지]
+angle:0.26	[정지]
+angle:0.51	[정지]
+angle:0.60	[정지]
+angle:0.45	[정지]
+angle:0.96	[정지]
+angle:-0.87	out:589.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.06	[정지]
+angle:-0.33	[정지]
+angle:0.56	[정지]
+angle:-0.38	[정지]
+angle:2.91	out:-385.5	Kp:35.00	Ki:200.00	Kd:3.50
+angle:4.73	out:-669.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.71	out:-387.7	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.17	out:-1.7	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.79	[정지]
+angle:-0.76	[정지]
+angle:-1.49	out:-83.8	Kp:35.00	Ki:200.00	Kd:3.50
+angle:0.02	[정지]
+angle:-1.63	out:212.5	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.62	[정지]
+angle:3.80	out:-393.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.50	[정지]
+angle:-0.64	[정지]
+angle:3.36	out:-233.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.17	[정지]
+angle:3.58	out:-660.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.50	out:-512.2	Kp:35.00	Ki:200.00	Kd:3.50
+angle:4.72	out:-703.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.28	out:-127.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.53	[정지]
+angle:-0.64	[정지]
+angle:-1.34	out:237.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.78	[정지]
+angle:0.44	[정지]
+angle:0.74	[정지]
+angle:-0.53	[정지]
+angle:-0.79	[정지]
+angle:-0.28	[정지]
+angle:1.47	[정지]
+angle:1.49	[정지]
+angle:1.91	[정지]
+angle:-1.14	out:206.4	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.43	[정지]
+angle:2.56	out:-776.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.28	out:-643.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.14	[정지]
+angle:2.20	[정지]
+angle:-0.14	[정지]
+angle:4.50	out:-607.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.83	[정지]
+angle:3.22	out:-367.5	Kp:35.00	Ki:200.00	Kd:3.50
+angle:0.40	[정지]
+angle:-0.88	out:644.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-2.27	out:352.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.89	out:-111.3	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.85	out:-147.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.06	[정지]
+angle:1.60	[정지]
+angle:-1.46	out:260.2	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-0.52	[정지]
+angle:1.48	[정지]
+angle:2.56	out:22.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.35	[정지]
+angle:2.40	out:-134.3	Kp:35.00	Ki:200.00	Kd:3.50
+angle:3.38	out:-84.4	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.96	[정지]
+angle:0.32	[정지]
+angle:0.18	[정지]
+angle:0.12	[정지]
+angle:-0.16	[정지]
+angle:-0.42	[정지]
+angle:-0.37	[정지]
+angle:-0.16	[정지]
+angle:1.16	[정지]
+angle:-0.18	[정지]
+angle:3.41	out:-591.5	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.36	out:-679.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.64	out:-246.9	Kp:35.00	Ki:200.00	Kd:3.50
+�MPU-6050 초기화 중...
+MPU-6050 연결 OK (클론 모듈)
+DMP 초기화 중... (약 15초 소요)
+DMP 준비 완료!
+=========================================
+  밸런싱 로봇 v2.0 (DMP)
+  Kp=35.00  Ki=200.00  Kd=3.50
+  명령: P/I/D/T/M + 값 (예: P30)
+=========================================
+angle:5.47	out:-962.2	Kp:35.00	Ki:200.00	Kd:3.50
+angle:9.86	out:-3379.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:13.59	out:-6691.0	Kp:35.00	Ki:200.00	Kd:3.50
+angle:16.88	out:-10620.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:19.72	out:-14807.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:22.16	out:-19071.4	Kp:35.00	Ki:200.00	Kd:3.50
+angle:24.25	out:-23260.8	Kp:35.00	Ki:200.00	Kd:3.50
+angle:26.04	out:-27289.7	Kp:35.00	Ki:200.00	Kd:3.50
+angle:27.45	out:-30884.7	Kp:35.00	Ki:200.00	Kd:3.50
+angle:27.95	out:-32849.7	Kp:35.00	Ki:200.00	Kd:3.50
+angle:18.17	out:-18203.9	Kp:35.00	Ki:200.00	Kd:3.50
+angle:5.36	out:-8767.4	Kp:35.00	Ki:200.00	Kd:3.50
+angle:1.75	[정지]
+angle:5.85	out:-1135.5	Kp:35.00	Ki:200.00	Kd:3.50
+angle:4.49	out:-793.1	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.19	[정지]
+angle:1.78	[정지]
+angle:-0.61	[정지]
+angle:-2.96	out:655.6	Kp:35.00	Ki:200.00	Kd:3.50
+angle:-2.76	out:509.2	Kp:35.00	Ki:200.00	Kd:3.50
+angle:2.16	[정지]
+angle:1.27	[정지]
+angle:0.49	[정지]
+angle:-0.21	[정지]
+angle:-0.22	[정지]
+angle:0.60	[정지]
+angle:-0.23	[정지]
+angle:-0.19	[정지]
+angle:-0.12	[정지]
+angle:-0.08	[정지]
+angle:0.04	[정지]
+angle:0.01	[정지]
+angle:0.06	[정지]
+angle:0.09	[정지]
+angle:0.12	[정지]
+angle:0.14	[정지]
+angle:0.16	[정지]
+angle:0.17	[정지]
+angle:0.19	[정지]
+angle:0.21	[정지]
+angle:0.22	[정지]
+angle:0.23	[정지]
+angle:0.24	[정지]
+angle:0.25	[정지]
+angle:0.25	[정지]
+angle:0.26	[정지]
+angle:0.26	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.26	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.28	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.27	[정지]
+angle:0.28	[정지]
+angle:0.28	[정지]
+angle:0.27	[정지]
+Kp = 50.00
+angle:0.28	[정지]
+angle:0.28	[정지]
+angle:0.28	[정지]
+angle:0.28	[정지]
+angle:0.28	[정지]
+angle:0.27	[정지]
+angle:0.28	[정지]
+angle:0.29	[정지]
+angle:0.42	[정지]
+angle:0.61	[정지]
+angle:0.58	[정지]
+angle:0.71	[정지]
+angle:0.85	[정지]
+angle:0.82	[정지]
+angle:-2.02	out:411.0	Kp:50.00	Ki:200.00	Kd:3.50
+angle:-0.37	[정지]
+angle:0.42	[정지]
+angle:0.57	[정지]
+angle:0.61	[정지]
+angle:1.00	[정지]
+angle:1.53	[정지]
+angle:2.68	out:-344.0	Kp:50.00	Ki:200.00	Kd:3.50
+angle:4.97	out:-1223.1	Kp:50.00	Ki:200.00	Kd:3.50
+angle:2.30	out:-642.2	Kp:50.00	Ki:200.00	Kd:3.50
+angle:0.93	[정지]
+angle:0.96	[정지]
+angle:-1.14	out:179.7	Kp:50.00	Ki:200.00	Kd:3.50
+angle:-0.20	[정지]
+angle:2.16	[정지]
+angle:2.42	out:-212.5	Kp:50.00	Ki:200.00	Kd:3.50
+angle:1.52	[정지]
+angle:0.75	[정지]
+angle:0.86	[정지]
+angle:0.60	[정지]
+angle:-2.38	out:663.0	Kp:50.00	Ki:200.00	Kd:3.50
+angle:-1.68	out:129.0	Kp:50.00	Ki:200.00	Kd:3.50
+angle:-1.15	out:-79.6	Kp:50.00	Ki:200.00	Kd:3.50
+angle:0.80	[정지]
+angle:0.55	[정지]
+angle:-1.95	out:191.3	Kp:50.00	Ki:200.00	Kd:3.50
+angle:-6.01	out:2292.0	Kp:50.00	Ki:200.00	Kd:3.50
+angle:0.21	[정지]
+angle:1.19	[정지]
+angle:0.56	[정지]
+angle:0.62	[정지]
+angle:-0.60	[정지]
+angle:-1.08	out:192.4	Kp:50.00	Ki:200.00	Kd:3.50
+angle:0.73	[정지]
+angle:0.52	[정지]
+angle:0.94	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.94	[정지]
+angle:0.93	[정지]
+angle:0.91	[정지]
+angle:0.89	[정지]
+angle:0.88	[정지]
+angle:0.87	[정지]
+angle:0.87	[정지]
+angle:0.86	[정지]
+angle:0.85	[정지]
+angle:0.85	[정지]
+Kp = 40.00
+angle:0.84	[정지]
+angle:0.84	[정지]
+angle:0.84	[정지]
+angle:0.83	[정지]
+angle:0.83	[정지]
+angle:0.99	[정지]
+angle:0.56	[정지]
+angle:-1.86	out:315.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.14	[정지]
+angle:1.62	[정지]
+angle:3.09	out:-249.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.19	[정지]
+angle:1.39	[정지]
+angle:2.27	out:-128.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.64	out:-220.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.33	out:-132.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.05	[정지]
+angle:1.22	[정지]
+angle:0.41	[정지]
+angle:-2.75	out:454.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.55	[정지]
+angle:4.91	out:-810.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.61	out:540.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.76	[정지]
+angle:0.81	[정지]
+angle:1.77	[정지]
+angle:1.70	[정지]
+angle:1.47	[정지]
+angle:-0.05	[정지]
+angle:0.72	[정지]
+angle:2.58	out:-150.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.83	[정지]
+angle:5.70	out:-1187.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.48	out:-470.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.15	[정지]
+angle:2.07	[정지]
+angle:1.79	[정지]
+angle:1.99	[정지]
+angle:2.21	out:-622.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.24	[정지]
+angle:0.88	[정지]
+angle:-0.66	[정지]
+angle:-0.45	[정지]
+angle:1.73	[정지]
+angle:1.71	[정지]
+angle:1.00	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.11	[정지]
+angle:1.11	[정지]
+angle:1.11	[정지]
+angle:1.10	[정지]
+angle:1.09	[정지]
+angle:1.09	[정지]
+angle:1.09	[정지]
+angle:1.09	[정지]
+angle:1.09	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:0.97	[정지]
+angle:1.03	[정지]
+angle:1.00	[정지]
+angle:0.99	[정지]
+angle:0.98	[정지]
+angle:0.99	[정지]
+angle:0.98	[정지]
+angle:0.99	[정지]
+angle:0.98	[정지]
+angle:0.98	[정지]
+angle:0.97	[정지]
+angle:0.99	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.05	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+angle:0.97	[정지]
+angle:0.96	[정지]
+angle:0.96	[정지]
+angle:0.97	[정지]
+angle:0.97	[정지]
+angle:0.96	[정지]
+angle:0.96	[정지]
+angle:0.96	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.92	[정지]
+angle:0.94	[정지]
+angle:0.82	[정지]
+angle:0.71	[정지]
+angle:0.55	[정지]
+angle:0.42	[정지]
+angle:0.09	[정지]
+angle:-0.06	[정지]
+angle:0.17	[정지]
+angle:0.19	[정지]
+angle:0.06	[정지]
+angle:-0.11	[정지]
+angle:-0.12	[정지]
+angle:-0.17	[정지]
+angle:-0.13	[정지]
+angle:-0.18	[정지]
+angle:-0.24	[정지]
+angle:-0.22	[정지]
+angle:-0.33	[정지]
+angle:-0.37	[정지]
+angle:-0.37	[정지]
+angle:-0.44	[정지]
+angle:-0.46	[정지]
+angle:-0.37	[정지]
+angle:-0.39	[정지]
+angle:-0.37	[정지]
+angle:-0.31	[정지]
+angle:-0.28	[정지]
+angle:-0.30	[정지]
+angle:-0.25	[정지]
+angle:-0.24	[정지]
+angle:-0.24	[정지]
+angle:-0.20	[정지]
+angle:-0.20	[정지]
+angle:-0.09	[정지]
+angle:-0.03	[정지]
+angle:-0.14	[정지]
+angle:-0.25	[정지]
+angle:-0.25	[정지]
+angle:-0.33	[정지]
+angle:-0.48	[정지]
+angle:-0.43	[정지]
+angle:-0.44	[정지]
+angle:-0.42	[정지]
+angle:-0.47	[정지]
+angle:-0.54	[정지]
+angle:-0.53	[정지]
+angle:-0.51	[정지]
+angle:-0.52	[정지]
+angle:-0.54	[정지]
+angle:-0.68	[정지]
+angle:-0.70	[정지]
+angle:-0.76	[정지]
+angle:-0.76	[정지]
+angle:-0.56	[정지]
+angle:-0.60	[정지]
+angle:-0.65	[정지]
+angle:-0.61	[정지]
+angle:-0.50	[정지]
+angle:-0.57	[정지]
+angle:-0.50	[정지]
+angle:-0.50	[정지]
+angle:-0.41	[정지]
+angle:-0.51	[정지]
+angle:-0.64	[정지]
+angle:-0.49	[정지]
+angle:-0.51	[정지]
+angle:-0.54	[정지]
+angle:-0.56	[정지]
+angle:-0.57	[정지]
+angle:-0.63	[정지]
+angle:-0.60	[정지]
+angle:-0.61	[정지]
+angle:-0.72	[정지]
+angle:-0.69	[정지]
+angle:-0.68	[정지]
+angle:-0.65	[정지]
+angle:-0.66	[정지]
+angle:-0.69	[정지]
+angle:-0.70	[정지]
+angle:-0.69	[정지]
+angle:-0.67	[정지]
+angle:-0.69	[정지]
+angle:-0.72	[정지]
+angle:-0.75	[정지]
+angle:-0.79	[정지]
+angle:-0.77	[정지]
+angle:-0.78	[정지]
+angle:-0.81	out:99.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.80	[정지]
+angle:-0.70	[정지]
+angle:-0.72	[정지]
+angle:-0.75	[정지]
+angle:-0.75	[정지]
+angle:-0.75	[정지]
+angle:-0.72	[정지]
+angle:-0.72	[정지]
+angle:-0.70	[정지]
+angle:-0.81	out:681.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.76	[정지]
+angle:-0.67	[정지]
+angle:-0.61	[정지]
+angle:-0.58	[정지]
+angle:-0.59	[정지]
+angle:-0.57	[정지]
+angle:-0.53	[정지]
+angle:-0.55	[정지]
+angle:-0.59	[정지]
+angle:-0.57	[정지]
+angle:-0.58	[정지]
+angle:-0.60	[정지]
+angle:-0.57	[정지]
+angle:-0.59	[정지]
+angle:-0.63	[정지]
+angle:-0.67	[정지]
+angle:-0.88	out:124.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.64	[정지]
+angle:-0.73	[정지]
+angle:-0.60	[정지]
+angle:-0.62	[정지]
+angle:-0.70	[정지]
+angle:-0.68	[정지]
+angle:-0.72	[정지]
+angle:-0.74	[정지]
+angle:-0.75	[정지]
+angle:-0.76	[정지]
+angle:-0.66	[정지]
+angle:-0.45	[정지]
+angle:0.46	[정지]
+angle:1.03	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.14	[정지]
+angle:1.12	[정지]
+angle:1.00	[정지]
+angle:0.82	[정지]
+angle:0.62	[정지]
+angle:0.39	[정지]
+angle:0.28	[정지]
+angle:0.31	[정지]
+angle:0.18	[정지]
+angle:-0.13	[정지]
+angle:0.02	[정지]
+angle:-0.06	[정지]
+angle:-0.16	[정지]
+angle:-0.07	[정지]
+angle:-0.03	[정지]
+angle:-0.13	[정지]
+angle:-0.12	[정지]
+angle:-0.17	[정지]
+angle:-0.19	[정지]
+angle:-0.22	[정지]
+angle:-0.14	[정지]
+angle:-0.18	[정지]
+angle:-0.19	[정지]
+angle:-0.27	[정지]
+angle:-0.28	[정지]
+angle:-0.29	[정지]
+angle:-0.29	[정지]
+angle:-0.28	[정지]
+angle:-0.32	[정지]
+angle:-0.29	[정지]
+angle:-0.29	[정지]
+angle:-0.33	[정지]
+angle:-0.32	[정지]
+angle:-0.15	[정지]
+angle:0.89	[정지]
+angle:1.13	[정지]
+angle:1.10	[정지]
+angle:1.13	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+목표각도 = -0.30
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.20	[정지]
+angle:1.13	[정지]
+angle:1.13	[정지]
+angle:1.24	out:-112.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.23	out:-103.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.20	out:-139.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.22	out:-201.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.23	out:-266.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.93	[정지]
+angle:1.36	out:-165.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.11	out:-333.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.58	out:330.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.40	out:227.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.80	out:-195.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.98	[정지]
+angle:0.63	[정지]
+angle:2.21	out:-323.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.06	[정지]
+angle:-0.59	[정지]
+angle:1.12	[정지]
+angle:1.95	out:-993.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.00	[정지]
+angle:1.54	out:-21.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.26	out:-707.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.67	[정지]
+angle:0.51	[정지]
+angle:0.94	[정지]
+angle:-0.47	[정지]
+angle:1.02	[정지]
+angle:-0.53	[정지]
+angle:-2.11	out:35.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.37	[정지]
+angle:0.56	[정지]
+angle:0.07	[정지]
+angle:0.69	[정지]
+angle:0.05	[정지]
+angle:-3.23	out:189.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.84	out:436.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.40	[정지]
+angle:0.83	[정지]
+angle:5.04	out:-1247.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.16	out:-583.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.53	[정지]
+angle:0.76	[정지]
+angle:-0.40	[정지]
+angle:1.08	[정지]
+angle:1.06	[정지]
+angle:0.69	[정지]
+angle:-2.32	out:187.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.87	out:416.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.24	out:271.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.82	out:441.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.96	out:-555.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.64	[정지]
+angle:-0.32	[정지]
+angle:0.91	[정지]
+angle:-0.67	[정지]
+angle:-1.40	[정지]
+angle:-0.97	[정지]
+angle:-4.17	out:619.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.10	[정지]
+angle:5.87	out:-1640.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.97	out:-1001.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.47	out:-1056.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.66	[정지]
+angle:-0.43	[정지]
+angle:0.44	[정지]
+angle:-1.31	[정지]
+angle:-2.13	out:849.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.64	[정지]
+angle:-0.91	[정지]
+angle:1.49	out:-110.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.77	out:616.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.68	[정지]
+angle:-2.73	out:272.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.24	out:-637.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.05	[정지]
+angle:0.80	[정지]
+angle:2.43	out:-353.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.50	[정지]
+angle:0.32	[정지]
+angle:1.11	[정지]
+angle:1.41	out:-125.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.25	out:-699.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.07	[정지]
+angle:0.97	[정지]
+angle:0.90	[정지]
+angle:0.90	[정지]
+angle:0.90	[정지]
+목표각도 = 0.00
+angle:0.91	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:1.44	[정지]
+angle:0.30	[정지]
+angle:-4.59	out:970.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.78	out:267.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.00	[정지]
+angle:1.50	[정지]
+angle:-0.06	[정지]
+angle:0.81	[정지]
+angle:1.17	[정지]
+angle:1.02	[정지]
+angle:0.33	[정지]
+angle:-0.15	[정지]
+angle:-1.31	[정지]
+angle:-0.31	[정지]
+angle:-0.75	[정지]
+angle:-8.01	out:2795.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-11.09	out:5289.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.01	out:1321.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.30	[정지]
+angle:2.15	out:-267.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.31	out:-304.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.41	out:-441.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.89	[정지]
+angle:-0.92	[정지]
+angle:1.64	out:-138.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.27	[정지]
+angle:0.85	[정지]
+angle:1.34	[정지]
+angle:1.28	[정지]
+angle:1.69	out:-160.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.63	out:-126.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.22	[정지]
+angle:1.07	[정지]
+angle:1.04	[정지]
+angle:1.03	[정지]
+angle:-0.22	[정지]
+angle:1.31	[정지]
+angle:2.02	out:-237.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.13	out:104.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-10.16	out:4411.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-15.86	out:10778.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.25	[정지]
+angle:-6.25	out:1821.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-7.86	out:2875.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-5.40	out:1863.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.81	out:1855.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.19	out:-310.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.35	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.18	[정지]
+angle:1.17	[정지]
+angle:1.14	[정지]
+angle:1.12	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.10	[정지]
+angle:1.09	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+목표각도 = 0.30
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.14	[정지]
+angle:1.51	[정지]
+angle:0.95	[정지]
+angle:1.11	[정지]
+angle:-0.57	[정지]
+angle:1.24	[정지]
+angle:1.15	[정지]
+angle:2.39	out:-156.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.89	[정지]
+angle:-0.79	[정지]
+angle:1.03	[정지]
+angle:1.51	[정지]
+angle:3.33	out:-611.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.47	out:518.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:11.71	out:-5577.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.96	out:-1211.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.40	[정지]
+angle:0.99	[정지]
+angle:2.16	out:-180.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.86	out:-377.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.37	[정지]
+angle:1.55	[정지]
+angle:2.00	out:-152.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.10	[정지]
+angle:1.12	[정지]
+angle:0.98	[정지]
+angle:1.09	[정지]
+angle:-0.46	[정지]
+angle:0.18	[정지]
+angle:-0.80	[정지]
+angle:0.54	[정지]
+angle:1.04	[정지]
+angle:4.60	out:-855.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.36	out:-340.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.24	[정지]
+angle:4.50	out:-841.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.52	[정지]
+angle:2.17	out:-209.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.15	[정지]
+angle:-1.46	out:191.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.46	out:479.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.90	out:185.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.47	[정지]
+angle:1.27	[정지]
+angle:1.69	[정지]
+angle:1.84	out:-637.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.51	[정지]
+angle:0.98	[정지]
+angle:-1.84	out:416.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.47	out:748.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.35	out:636.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.26	out:648.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.66	out:232.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.99	out:17.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.06	[정지]
+angle:2.40	out:-917.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.94	out:-527.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.88	out:-483.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.45	[정지]
+angle:-1.58	out:-21.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.09	out:93.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.71	out:694.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.89	out:-610.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:8.54	out:-3046.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:6.81	out:-2115.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.32	[정지]
+angle:1.74	[정지]
+angle:1.59	[정지]
+angle:-0.21	[정지]
+angle:1.61	[정지]
+angle:1.87	out:-649.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.89	out:-119.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.54	[정지]
+angle:0.94	[정지]
+angle:0.50	[정지]
+angle:-1.35	out:687.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.30	out:849.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.10	[정지]
+angle:-1.31	out:669.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:6.14	out:-1742.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.19	[정지]
+angle:1.04	[정지]
+angle:1.47	[정지]
+angle:3.39	out:-338.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.04	[정지]
+angle:2.22	out:-130.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.17	[정지]
+angle:0.18	[정지]
+angle:-0.48	[정지]
+angle:-1.45	out:165.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.75	out:581.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.52	out:1020.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.19	out:-431.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.74	out:-375.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.32	out:-59.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.71	[정지]
+angle:1.62	[정지]
+angle:1.60	[정지]
+angle:2.19	out:-806.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.00	out:-712.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.21	[정지]
+angle:1.28	[정지]
+angle:1.94	out:-686.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.61	[정지]
+angle:3.08	out:-441.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.89	[정지]
+angle:2.38	out:-220.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.31	out:668.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.76	out:570.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-6.38	out:2036.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.27	[정지]
+angle:1.29	[정지]
+angle:1.18	[정지]
+angle:1.13	[정지]
+angle:1.07	[정지]
+angle:1.03	[정지]
+angle:0.99	[정지]
+angle:0.95	[정지]
+angle:0.92	[정지]
+angle:0.90	[정지]
+angle:0.88	[정지]
+angle:0.86	[정지]
+angle:0.84	[정지]
+angle:0.82	[정지]
+angle:0.82	[정지]
+목표각도 = 0.40
+angle:0.81	[정지]
+angle:0.80	[정지]
+angle:0.80	[정지]
+angle:0.79	[정지]
+angle:0.78	[정지]
+angle:0.78	[정지]
+angle:-0.02	[정지]
+angle:1.44	[정지]
+angle:2.92	out:-408.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:10.37	out:-4319.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.47	out:-905.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.16	[정지]
+angle:1.26	[정지]
+angle:1.85	[정지]
+angle:0.12	[정지]
+angle:0.50	[정지]
+angle:-1.64	out:317.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.79	out:12.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.80	[정지]
+angle:-0.27	[정지]
+angle:0.43	[정지]
+angle:0.62	[정지]
+angle:0.34	[정지]
+angle:0.57	[정지]
+angle:1.65	[정지]
+angle:0.77	[정지]
+angle:-0.75	[정지]
+angle:-0.33	[정지]
+angle:-1.52	out:760.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.93	out:1037.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.30	out:711.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.61	out:-431.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-10.57	out:5121.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-12.49	out:7184.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:9.30	out:-3397.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.89	out:-448.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.60	out:-899.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.89	out:-1450.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.22	out:-991.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.28	[정지]
+angle:-9.65	out:4189.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.30	[정지]
+angle:1.28	[정지]
+angle:1.08	[정지]
+angle:0.88	[정지]
+angle:0.84	[정지]
+angle:0.80	[정지]
+angle:0.75	[정지]
+angle:0.70	[정지]
+angle:0.68	[정지]
+angle:0.65	[정지]
+angle:0.62	[정지]
+angle:0.60	[정지]
+angle:0.58	[정지]
+angle:0.57	[정지]
+angle:0.55	[정지]
+angle:0.53	[정지]
+angle:0.53	[정지]
+angle:0.52	[정지]
+angle:0.51	[정지]
+angle:0.50	[정지]
+angle:0.50	[정지]
+angle:0.50	[정지]
+angle:0.50	[정지]
+angle:0.49	[정지]
+목표각도 = 0.42
+angle:0.49	[정지]
+angle:0.48	[정지]
+angle:0.47	[정지]
+angle:0.47	[정지]
+angle:0.47	[정지]
+angle:0.47	[정지]
+angle:0.47	[정지]
+angle:0.54	[정지]
+angle:-0.84	[정지]
+angle:8.48	out:-2783.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:7.48	out:-2504.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.35	out:-1200.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.87	[정지]
+angle:0.36	[정지]
+angle:0.97	[정지]
+angle:-0.69	[정지]
+angle:1.39	[정지]
+angle:1.56	[정지]
+angle:2.17	out:-163.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.56	out:-317.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.50	out:-482.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.09	out:-113.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.28	[정지]
+angle:-0.14	[정지]
+angle:1.32	[정지]
+angle:1.54	[정지]
+angle:1.54	[정지]
+angle:0.60	[정지]
+angle:-4.58	out:968.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-8.55	out:3574.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.25	[정지]
+angle:5.48	out:-1191.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.58	out:-944.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.14	out:-993.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.16	[정지]
+angle:-2.95	out:695.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.02	out:708.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.24	out:-801.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.00	out:-889.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.48	out:-731.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.13	out:-1476.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.37	out:-899.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.04	[정지]
+angle:-3.10	out:571.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.33	[정지]
+angle:-2.30	out:344.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.73	[정지]
+angle:0.87	[정지]
+angle:0.84	[정지]
+angle:0.85	[정지]
+angle:0.86	[정지]
+angle:0.86	[정지]
+angle:0.87	[정지]
+angle:0.87	[정지]
+angle:0.87	[정지]
+angle:0.88	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.88	[정지]
+목표각도 = 0.50
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.89	[정지]
+angle:0.87	[정지]
+angle:1.82	[정지]
+angle:3.54	out:-473.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.26	out:-536.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.86	out:-1170.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.79	[정지]
+angle:0.99	[정지]
+angle:1.88	[정지]
+angle:1.31	[정지]
+angle:2.37	out:-797.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.37	out:-823.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.30	out:-215.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.73	[정지]
+angle:1.53	[정지]
+angle:1.81	[정지]
+angle:-1.90	out:230.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.18	out:-53.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.91	out:321.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.50	[정지]
+angle:-1.03	out:585.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.91	[정지]
+angle:2.81	out:-337.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.62	out:1101.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:10.46	out:-4178.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.82	[정지]
+angle:-1.27	out:172.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.67	[정지]
+angle:2.11	out:-668.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.42	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.19	[정지]
+angle:1.18	[정지]
+angle:1.16	[정지]
+angle:1.14	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.10	[정지]
+angle:1.09	[정지]
+angle:1.09	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.08	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.07	[정지]
+angle:1.06	[정지]
+angle:1.06	[정지]
+angle:1.05	[정지]
+목표각도 = 0.60
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:2.53	out:-227.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.82	[정지]
+angle:0.98	[정지]
+angle:1.58	[정지]
+angle:1.24	[정지]
+angle:2.10	[정지]
+angle:1.36	[정지]
+angle:1.48	[정지]
+angle:1.72	[정지]
+angle:1.63	[정지]
+angle:2.12	out:-628.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.50	out:-275.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.50	out:-225.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.63	out:-825.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.10	[정지]
+angle:-3.33	out:938.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.27	out:1196.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.26	out:526.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.95	out:852.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.13	out:-631.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.44	[정지]
+angle:0.51	[정지]
+angle:-1.91	out:382.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.73	out:389.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.89	out:688.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.10	[정지]
+angle:1.94	[정지]
+angle:2.29	out:-775.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.27	out:-603.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.00	[정지]
+angle:1.03	[정지]
+angle:-0.64	[정지]
+angle:-1.48	out:284.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.28	out:607.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.83	[정지]
+angle:0.62	[정지]
+angle:1.05	[정지]
+angle:0.55	[정지]
+angle:-1.64	out:238.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.54	[정지]
+angle:0.75	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.03	[정지]
+angle:1.03	[정지]
+angle:1.02	[정지]
+angle:1.02	[정지]
+angle:1.02	[정지]
+angle:1.03	[정지]
+angle:1.03	[정지]
+목표각도 = 0.70
+angle:1.03	[정지]
+angle:1.02	[정지]
+angle:1.02	[정지]
+angle:1.02	[정지]
+angle:1.03	[정지]
+angle:1.45	[정지]
+angle:-2.11	out:408.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.11	[정지]
+angle:2.94	out:-262.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.51	[정지]
+angle:2.37	out:-700.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.97	out:-505.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.41	[정지]
+angle:-1.22	out:-93.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.12	out:-74.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.97	out:77.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.87	out:-125.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.60	out:83.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.20	out:605.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.37	[정지]
+angle:3.96	out:-613.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.49	out:-490.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.86	out:-148.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.18	out:-133.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.19	[정지]
+angle:-0.82	out:628.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.48	[정지]
+angle:2.78	out:-215.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.94	out:-320.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.16	out:-443.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.00	[정지]
+angle:1.81	[정지]
+angle:1.62	[정지]
+angle:2.47	out:-691.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.90	out:-374.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.00	[정지]
+angle:-0.40	[정지]
+angle:-1.42	out:344.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.22	out:796.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.77	out:1515.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.80	out:162.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.20	[정지]
+angle:0.92	[정지]
+angle:3.87	out:-536.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:12.24	out:-5674.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:7.45	out:-2452.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:6.41	out:-2334.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.55	out:-1210.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.13	out:169.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.67	[정지]
+angle:1.22	[정지]
+angle:0.57	[정지]
+angle:0.06	[정지]
+angle:0.99	[정지]
+angle:2.39	out:-151.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.42	[정지]
+angle:0.47	[정지]
+angle:-1.21	out:819.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.01	out:720.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.39	[정지]
+angle:1.09	[정지]
+angle:2.44	out:-192.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.48	out:-710.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.42	out:-817.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.72	out:-1304.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.23	out:-718.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.51	[정지]
+angle:-0.50	[정지]
+angle:-0.54	[정지]
+angle:1.02	[정지]
+angle:1.53	[정지]
+angle:1.29	[정지]
+angle:1.35	[정지]
+angle:1.34	[정지]
+angle:1.34	[정지]
+angle:1.33	[정지]
+angle:1.32	[정지]
+angle:1.32	[정지]
+angle:1.31	[정지]
+angle:1.31	[정지]
+angle:1.31	[정지]
+angle:1.31	[정지]
+angle:1.30	[정지]
+angle:1.30	[정지]
+angle:1.31	[정지]
+목표각도 = 0.80
+angle:1.31	[정지]
+angle:1.31	[정지]
+angle:1.31	[정지]
+angle:1.30	[정지]
+angle:1.30	[정지]
+angle:1.30	[정지]
+angle:1.30	[정지]
+angle:1.29	[정지]
+angle:1.31	[정지]
+angle:1.14	[정지]
+angle:-2.19	out:373.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.18	[정지]
+angle:2.83	out:-225.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.16	out:-413.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.97	[정지]
+angle:0.25	[정지]
+angle:2.38	out:-117.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.36	[정지]
+angle:3.05	out:35.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.65	out:-183.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.63	out:-101.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.17	out:-12.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.46	out:-460.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.96	[정지]
+angle:0.82	[정지]
+angle:-0.81	out:669.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.48	out:211.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.79	[정지]
+angle:-0.08	[정지]
+angle:0.05	[정지]
+angle:-0.71	out:624.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.09	[정지]
+angle:2.65	out:-188.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.70	out:-135.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.76	[정지]
+angle:1.29	[정지]
+angle:-0.24	[정지]
+angle:2.35	out:171.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.89	out:-648.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.59	out:-760.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.81	out:-527.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.10	[정지]
+angle:0.90	[정지]
+angle:1.30	[정지]
+angle:2.01	[정지]
+angle:0.90	[정지]
+angle:1.72	[정지]
+angle:1.59	[정지]
+angle:-0.32	[정지]
+angle:0.07	[정지]
+angle:2.18	[정지]
+angle:3.50	out:-589.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.00	out:-345.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.61	out:-767.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.90	out:-808.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.65	[정지]
+angle:-4.94	out:1420.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.36	out:-99.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.22	out:567.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.73	[정지]
+angle:1.62	[정지]
+angle:1.50	[정지]
+angle:1.40	[정지]
+angle:1.40	[정지]
+angle:1.35	[정지]
+angle:1.32	[정지]
+angle:1.30	[정지]
+angle:1.28	[정지]
+angle:1.27	[정지]
+angle:1.26	[정지]
+angle:1.25	[정지]
+angle:1.24	[정지]
+angle:1.22	[정지]
+angle:1.22	[정지]
+angle:1.22	[정지]
+목표각도 = 0.90
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.34	[정지]
+angle:0.61	[정지]
+angle:0.81	[정지]
+angle:1.79	[정지]
+angle:3.46	out:-347.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.63	[정지]
+angle:1.05	[정지]
+angle:0.78	[정지]
+angle:-0.04	[정지]
+angle:1.23	[정지]
+angle:0.91	[정지]
+angle:2.14	[정지]
+angle:-0.06	[정지]
+angle:-0.96	out:866.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.84	out:798.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.82	out:190.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.94	out:137.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.88	[정지]
+angle:1.24	[정지]
+angle:2.22	[정지]
+angle:3.33	out:-543.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.32	[정지]
+angle:1.57	[정지]
+angle:2.45	out:217.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.07	out:-26.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.14	[정지]
+angle:0.03	[정지]
+angle:-0.44	[정지]
+angle:-1.82	out:550.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.47	out:379.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.46	out:370.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.93	out:670.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.41	out:94.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.25	out:586.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.47	[정지]
+angle:-0.19	[정지]
+angle:1.04	[정지]
+angle:2.51	out:-620.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.91	out:-945.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.55	out:-754.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-5.27	out:1642.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.25	out:538.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.73	[정지]
+angle:0.44	[정지]
+angle:-2.34	out:472.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.51	out:-671.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.82	out:-706.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.95	[정지]
+angle:3.17	out:-290.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.76	out:-487.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.42	out:-489.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.18	[정지]
+angle:1.14	[정지]
+angle:-1.54	out:398.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.10	out:270.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.85	[정지]
+angle:-0.75	out:61.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.06	[정지]
+angle:-0.37	[정지]
+angle:-0.24	[정지]
+angle:1.72	[정지]
+angle:0.31	[정지]
+angle:-1.87	out:196.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.33	out:697.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.48	out:1278.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.59	[정지]
+angle:-2.18	out:520.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.87	out:447.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.70	out:479.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.55	[정지]
+angle:1.32	[정지]
+angle:1.38	[정지]
+angle:1.36	[정지]
+angle:1.33	[정지]
+angle:1.32	[정지]
+angle:1.29	[정지]
+angle:1.28	[정지]
+angle:1.26	[정지]
+angle:1.25	[정지]
+angle:1.25	[정지]
+angle:1.24	[정지]
+angle:1.23	[정지]
+angle:1.22	[정지]
+angle:1.22	[정지]
+angle:1.22	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+목표각도 = 1.00
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.18	[정지]
+angle:1.17	[정지]
+angle:1.24	[정지]
+angle:0.11	[정지]
+angle:1.98	[정지]
+angle:1.64	[정지]
+angle:3.11	out:-207.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.62	out:-186.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.36	[정지]
+angle:2.56	out:-599.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.95	[정지]
+angle:-1.72	out:392.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.89	out:154.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.24	[정지]
+angle:2.39	[정지]
+angle:1.96	[정지]
+angle:-0.38	[정지]
+angle:1.20	[정지]
+angle:0.36	[정지]
+angle:-1.22	out:-42.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.32	out:261.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.47	out:594.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.70	out:656.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.83	out:-257.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.98	out:-195.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.52	out:-77.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.38	[정지]
+angle:-0.16	[정지]
+angle:2.99	out:-225.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.57	out:-376.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.31	[정지]
+angle:2.14	[정지]
+angle:2.09	[정지]
+angle:1.65	[정지]
+angle:1.82	[정지]
+angle:1.90	[정지]
+angle:0.43	[정지]
+angle:1.69	[정지]
+angle:-0.71	out:-8.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.38	out:268.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.42	out:1181.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.89	out:1533.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.28	[정지]
+angle:0.41	[정지]
+angle:0.88	[정지]
+angle:0.14	[정지]
+angle:1.59	[정지]
+angle:0.81	[정지]
+angle:1.09	[정지]
+angle:1.05	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.04	[정지]
+angle:1.03	[정지]
+angle:1.02	[정지]
+angle:1.01	[정지]
+angle:1.01	[정지]
+angle:1.01	[정지]
+목표각도 = 1.10
+angle:1.00	[정지]
+angle:0.99	[정지]
+angle:0.98	[정지]
+angle:0.98	[정지]
+angle:0.98	[정지]
+angle:0.98	[정지]
+angle:1.03	[정지]
+angle:1.36	[정지]
+angle:1.16	[정지]
+angle:1.02	[정지]
+angle:3.34	out:-238.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.08	out:-294.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.67	out:-118.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.54	[정지]
+angle:2.47	[정지]
+angle:0.94	[정지]
+angle:-0.12	[정지]
+angle:-2.17	out:613.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.84	out:-48.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.60	[정지]
+angle:1.52	[정지]
+angle:2.39	[정지]
+angle:-1.01	out:80.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.20	[정지]
+angle:1.40	[정지]
+angle:2.81	out:95.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.15	[정지]
+angle:-0.90	out:307.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.12	out:-8.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.08	out:157.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.63	[정지]
+angle:2.08	[정지]
+angle:1.55	[정지]
+angle:1.31	[정지]
+angle:1.54	[정지]
+angle:0.55	[정지]
+angle:-1.36	out:277.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.60	out:298.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.77	out:172.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.92	out:518.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.92	out:241.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.08	out:23.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.22	[정지]
+angle:-0.26	[정지]
+angle:1.57	[정지]
+angle:0.81	[정지]
+angle:-3.03	out:599.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.12	out:427.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.37	[정지]
+angle:2.20	[정지]
+angle:-1.36	out:115.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.03	out:20.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.85	out:-94.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.74	[정지]
+angle:2.57	[정지]
+angle:-0.24	[정지]
+angle:0.58	[정지]
+angle:1.36	[정지]
+angle:5.03	out:-600.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.71	[정지]
+angle:3.62	out:-206.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.12	out:28.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.68	out:-905.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:5.30	out:-908.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:6.01	out:-1321.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.20	out:-678.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.00	[정지]
+angle:-0.00	[정지]
+angle:-0.23	[정지]
+angle:-1.78	out:671.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.71	out:949.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.29	out:816.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.97	out:833.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.15	[정지]
+angle:2.91	out:-765.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.02	out:31.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.53	out:602.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.44	out:60.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.43	out:105.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.89	out:78.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.74	[정지]
+angle:4.27	out:-324.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:9.42	out:-3030.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:13.38	out:-6655.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.91	[정지]
+angle:-3.14	out:944.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.87	out:-748.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.75	[정지]
+angle:1.82	[정지]
+angle:0.84	[정지]
+angle:0.42	[정지]
+angle:0.80	[정지]
+angle:-0.45	out:593.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.26	out:100.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.16	[정지]
+angle:-0.55	out:-25.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.36	[정지]
+angle:-0.93	out:138.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.08	out:640.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.55	out:-48.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.09	out:468.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-3.61	out:1043.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.57	[정지]
+angle:-0.17	[정지]
+angle:1.56	[정지]
+angle:1.30	[정지]
+angle:2.77	out:-761.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.27	[정지]
+angle:-0.56	out:158.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.77	out:233.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.67	out:692.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.15	[정지]
+angle:1.70	[정지]
+angle:2.79	out:134.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.63	out:-306.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.03	out:-260.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.71	out:-112.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.51	[정지]
+angle:1.74	[정지]
+angle:2.76	out:140.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.83	[정지]
+angle:0.79	[정지]
+angle:0.29	[정지]
+angle:2.25	[정지]
+angle:2.14	[정지]
+angle:1.55	[정지]
+angle:2.37	[정지]
+angle:-1.82	out:195.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-6.45	out:2367.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.84	out:-522.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.52	[정지]
+angle:1.79	[정지]
+angle:-2.05	out:497.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.58	out:1533.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-4.38	out:1614.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.76	[정지]
+angle:1.25	[정지]
+angle:0.82	[정지]
+angle:1.74	[정지]
+angle:1.37	[정지]
+angle:1.27	[정지]
+angle:1.24	[정지]
+angle:1.22	[정지]
+angle:1.20	[정지]
+angle:1.19	[정지]
+angle:1.17	[정지]
+angle:1.16	[정지]
+angle:1.16	[정지]
+angle:1.16	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.14	[정지]
+angle:1.13	[정지]
+angle:1.12	[정지]
+목표각도 = 1.00
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.11	[정지]
+angle:1.12	[정지]
+angle:1.11	[정지]
+angle:1.81	[정지]
+angle:1.01	[정지]
+angle:3.87	out:-402.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.09	[정지]
+angle:0.28	[정지]
+angle:2.57	out:-649.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.15	out:415.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.17	[정지]
+angle:1.25	[정지]
+angle:1.91	[정지]
+angle:2.11	[정지]
+angle:2.31	[정지]
+angle:-1.04	out:265.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.62	out:315.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-1.16	out:-13.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.27	[정지]
+angle:1.47	[정지]
+angle:1.77	[정지]
+angle:0.11	[정지]
+angle:2.27	[정지]
+angle:-0.50	out:57.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.94	out:-46.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.63	[정지]
+angle:-0.25	[정지]
+angle:4.69	out:-765.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.65	out:-156.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.78	out:69.0	Kp:40.00	Ki:200.00	Kd:3.50
+angle:4.12	out:-222.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.43	[정지]
+angle:-0.58	out:718.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.12	[정지]
+angle:1.86	[정지]
+angle:1.10	[정지]
+angle:-1.54	out:392.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.90	out:139.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.46	[정지]
+angle:0.72	[정지]
+angle:1.05	[정지]
+angle:1.61	[정지]
+angle:3.82	out:-564.6	Kp:40.00	Ki:200.00	Kd:3.50
+angle:3.92	out:-526.1	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.65	out:135.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.27	[정지]
+angle:4.22	out:-268.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.00	[정지]
+angle:0.02	[정지]
+angle:-1.66	out:430.8	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.97	out:222.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.45	[정지]
+angle:-0.80	out:193.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.34	[정지]
+angle:1.05	[정지]
+angle:-0.25	[정지]
+angle:-0.17	[정지]
+angle:-0.48	[정지]
+angle:2.08	[정지]
+angle:0.10	[정지]
+angle:-1.06	out:289.2	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.63	out:516.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-2.35	out:566.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.87	out:182.7	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.94	out:1.3	Kp:40.00	Ki:200.00	Kd:3.50
+angle:-0.28	[정지]
+angle:0.68	[정지]
+angle:-0.18	[정지]
+angle:0.01	[정지]
+angle:1.10	[정지]
+angle:1.07	[정지]
+angle:-0.40	[정지]
+angle:-0.22	[정지]
+angle:0.40	[정지]
+angle:0.13	[정지]
+angle:-0.62	out:135.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:0.25	[정지]
+angle:0.39	[정지]
+angle:0.31	[정지]
+angle:0.18	[정지]
+angle:-0.15	[정지]
+angle:2.53	out:-582.9	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.24	[정지]
+angle:3.96	out:-658.5	Kp:40.00	Ki:200.00	Kd:3.50
+angle:2.42	[정지]
+angle:0.15	[정지]
+angle:-0.78	out:754.4	Kp:40.00	Ki:200.00	Kd:3.50
+angle:1.23	[정지]
+angle:1.22	[정지]
+angle:0.22	[정지]
+angle:0.11	[정지]
+angle:1.95	[정지]
+angle:1.30	[정지]
+angle:1.59	[정지]
+angle:1.43	[정지]
+angle:1.42	[정지]
+angle:1.38	[정지]
+angle:1.36	[정지]
+angle:1.34	[정지]
+angle:1.32	[정지]
+angle:1.18	[정지]
+angle:1.17	[정지]
+angle:1.14	[정지]
+angle:1.22	[정지]
+angle:1.23	[정지]
+angle:1.23	[정지]
+angle:1.22	[정지]
+angle:1.22	[정지]
+angle:1.21	[정지]
+angle:1.19	[정지]
+angle:1.22	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.21	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.20	[정지]
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.19	[정지]
+angle:1.18	[정지]
+angle:1.17	[정지]
+angle:1.13	[정지]
+angle:1.10	[정지]
+angle:1.07	[정지]
+angle:1.05	[정지]
+angle:1.04	[정지]
+angle:1.02	[정지]
+angle:1.00	[정지]
+angle:0.98	[정지]
+angle:0.98	[정지]
+angle:0.96	[정지]
+angle:0.96	[정지]
+angle:0.95	[정지]
+angle:0.94	[정지]
+angle:0.94	[정지]
+angle:0.93	[정지]
+angle:0.94	[정지]
+angle:0.94	[정지]
+angle:0.94	[정지]
+angle:0.94	[정지]
+angle:0.94	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.95	[정지]
+angle:0.94	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.91	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.92	[정지]
+angle:0.92	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
+angle:0.93	[정지]
