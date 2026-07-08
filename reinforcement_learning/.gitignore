@@ -1,3 +1,13 @@
 tron1/tron1-mujoco-sim/
 tron1/checkpoints*/
 tron1/logs*/
+tron1/logs_v*/
+tron1/mjx_checkpoints*/
+
+# Trained model artifacts
+tron1/*.pkl
+tron1/*.zip
+
+# Python cache
+tron1/__pycache__/
+tron1/*.pyc

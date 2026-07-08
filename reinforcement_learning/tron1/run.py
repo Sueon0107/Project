@@ -2,13 +2,12 @@ import os
 import time
 import mujoco
 import mujoco.viewer
-import numpy as np
 from stable_baselines3 import PPO
 from tron1_env import Tron1BalanceEnv
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-MODEL_PATH = "tron1_balance_v4_final"
+MODEL_PATH = "tron1_balance_v6_final"
 
 def run():
     env   = Tron1BalanceEnv()
@@ -17,7 +16,7 @@ def run():
     print(f"모델 로드 완료: {MODEL_PATH}.zip")
     print("뷰어 실행 중... (창 닫으면 종료)\n")
 
-    steps_per_frame = max(1, int(round(1.0 / 60.0 / env.model.opt.timestep)))
+    control_dt = 1.0 / 60.0  # 1 스텝 = 1/60 초 (1배속 기준)
 
     with mujoco.viewer.launch_passive(env.model, env.data) as v:
         v.cam.distance  = 3.0
@@ -38,8 +37,13 @@ def run():
                 total_reward += reward
                 steps += 1
 
-                # 뷰어 sync (물리는 env.step 안에서 이미 실행됨)
+                # 1배속 실시간 제한
+                t_start = time.perf_counter()
                 v.sync()
+                t_elapsed = time.perf_counter() - t_start
+                remaining = control_dt - t_elapsed
+                if remaining > 0:
+                    time.sleep(remaining)
 
                 if truncated:
                     env._step_count = 0  # 카운터만 초기화, 물리 상태 유지

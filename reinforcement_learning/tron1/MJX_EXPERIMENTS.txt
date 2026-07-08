@@ -1,0 +1,164 @@
+TRON1 MJX experiment versions
+============================
+
+Purpose
+-------
+This file tracks MJX training versions.  File names now use v1, v2, ...
+instead of descriptive run names so each policy change can be compared more
+cleanly.
+
+Current naming
+--------------
+Final models:
+- tron1_balance_v1_final.pkl
+- tron1_balance_v2_final.pkl
+- tron1_balance_v3_final.pkl
+- tron1_balance_v4_final.pkl
+- tron1_balance_v5_final.pkl
+- tron1_balance_v6_final.pkl
+- tron1_balance_v7_final.pkl
+- tron1_balance_v8_final.pkl
+- tron1_balance_v9_final.pkl
+- tron1_balance_v10_final.pkl
+
+Checkpoint directories:
+- mjx_checkpoints_v1
+- mjx_checkpoints_v2
+- mjx_checkpoints_v3
+- mjx_checkpoints_v4
+- mjx_checkpoints_v5
+- mjx_checkpoints_v6
+- mjx_checkpoints_v7
+- mjx_checkpoints_v8
+- mjx_checkpoints_v9
+- mjx_checkpoints_v10
+
+Version notes
+-------------
+v1
+- First MJX PPO model.
+- Aggressive PPO settings:
+  learning_rate=3e-4, clip_coef=0.2, init_log_std=0.0, max_grad_norm=0.5.
+- Trained before the MJX collision bug was fixed.
+- Observation: reward improved, but ep_len stayed near 18 because the feet were
+  passing through the floor.
+
+v2
+- More conservative PPO settings:
+  learning_rate=1e-4, clip_coef=0.1, init_log_std=-1.0, max_grad_norm=0.25.
+- Trained before the MJX collision bug was fixed.
+- Observation: less unstable than v1, but ep_len still stayed near 18.
+
+v3
+- Middle PPO settings:
+  learning_rate=2e-4, clip_coef=0.15, init_log_std=-0.7, max_grad_norm=0.25.
+- Trained before the MJX collision bug was fixed.
+- Observation: ep_rew changed, but ep_len still stayed near 18.
+
+v4
+- First model after fixing MJX collision flags.
+- MJX XML conversion was changed so collision geoms are active:
+  base, abad, hip, knee, foot, and floor collision geoms are kept.
+- Cylinder collision geoms are converted to capsules for MJX compatibility.
+- Observation: ep_len improved to roughly 50 steps instead of 18.
+
+v5
+- More active PPO settings after the collision fix:
+  learning_rate=3e-4, clip_coef=0.2, init_log_std=-0.3, max_grad_norm=0.5.
+- Uses 256 parallel envs by default.
+- Observation: more movement/exploration than v4.  This is the current default
+  model before changing the contact reward.
+
+v6
+- Contact reward was removed from the MJX reward.
+- This means the policy is no longer penalized just because one or both feet
+  leave the floor.
+- Intended direction: allow stepping or hopping-like balance strategies instead
+  of forcing quiet two-foot contact.
+- This is the current default training and viewer version.
+- Default total_timesteps is 2,000,000 because v5 was still improving around
+  1,000,000 steps.
+- During training, the best ep_len model is also saved as:
+  tron1_balance_v6_best.pkl
+
+v7
+- Based on v6.
+- Horizontal acceleration penalty was weakened:
+  r_acc scale 0.3 -> 0.05.
+- Intended direction: allow more body/foot motion for stepping-in-place style
+  balance instead of suppressing motion too strongly.
+
+v8
+- Based on v7.
+- Reward was changed to make falling more costly and standing effort more
+  explicit:
+  r_alive 1.0 -> 1.5
+  fallen penalty -10 -> -30
+  r_acc scale 0.05 -> 0.15
+  both feet in air: -0.5 penalty
+- Contact is still not rewarded directly, so lifting one foot is allowed.
+- Default total_timesteps was reduced to 1,000,000.
+
+v9
+- Based on v8.
+- Added a phase clock to the observation:
+  sin(2*pi*phase), cos(2*pi*phase)
+- Added a simple alternating in-place stepping reward:
+  first half of cycle: left stance, right swing
+  second half of cycle: right stance, left swing
+- Stance foot contact is rewarded, missing stance contact is penalized.
+- Swing foot clearance is rewarded.
+- Stance foot slip velocity is not included because MJX Data does not expose
+  geom_xvel directly in this setup.
+
+v10
+- Based on v9.
+- Phase reward was strengthened to discourage keeping both feet planted:
+  stance foot contact: +0.5
+  missing stance contact: -0.8
+  swing foot still touching floor: -0.8
+  swing foot not touching floor: +0.2
+  swing foot cleared above threshold: +0.5
+  swing foot not cleared: -0.3
+- Intended direction: force visible alternating foot use instead of allowing a
+  two-foot planted standing shortcut.
+
+v11
+- Based on v10.
+- Reduced the always-on alive reward:
+  r_alive 1.5 -> 0.5
+- Strengthened phase foot-change terms:
+  stance foot contact: +0.5 -> +0.8
+  missing stance foot: -0.8 -> -1.5
+  swing foot still touching floor: -0.8 -> -2.0
+  swing foot not touching floor: +0.2 -> +0.4
+  swing foot cleared above threshold: +0.5 -> +1.0
+  swing foot not cleared: -0.3 -> -0.8
+- Intended direction: make two-foot planted standing much less profitable,
+  so the policy has a stronger reason to actually alternate the feet.
+- Current default training and viewer version.
+
+How to train
+------------
+Default training continues v5:
+
+  __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia python train_mjx.py
+
+To start a new version, choose a new run name:
+
+  MJX_RUN_NAME=v6 python train_mjx.py
+
+How to run a model
+------------------
+Default viewer loads v5:
+
+  __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia python run_mjx.py
+
+Run a specific version:
+
+  __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia python run_mjx.py tron1_balance_v4_final.pkl
+
+Important note
+--------------
+v1, v2, and v3 were trained with the old broken MJX collision setup.  Keep them
+for comparison, but do not use them as good starting checkpoints.
